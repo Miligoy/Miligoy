@@ -1,0 +1,14 @@
+D:\C#\XOX\bin\Debug\net7.0\XOX.exe
+D:\C#\XOX\bin\Debug\net7.0\XOX.deps.json
+D:\C#\XOX\bin\Debug\net7.0\XOX.runtimeconfig.json
+D:\C#\XOX\bin\Debug\net7.0\XOX.dll
+D:\C#\XOX\bin\Debug\net7.0\XOX.pdb
+D:\C#\XOX\obj\Debug\net7.0\XOX.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\XOX\obj\Debug\net7.0\XOX.AssemblyInfoInputs.cache
+D:\C#\XOX\obj\Debug\net7.0\XOX.AssemblyInfo.cs
+D:\C#\XOX\obj\Debug\net7.0\XOX.csproj.CoreCompileInputs.cache
+D:\C#\XOX\obj\Debug\net7.0\XOX.dll
+D:\C#\XOX\obj\Debug\net7.0\refint\XOX.dll
+D:\C#\XOX\obj\Debug\net7.0\XOX.pdb
+D:\C#\XOX\obj\Debug\net7.0\XOX.genruntimeconfig.cache
+D:\C#\XOX\obj\Debug\net7.0\ref\XOX.dll
